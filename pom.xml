@@ -10,16 +10,16 @@
   <!-- UPDATE THE VERSION EACH RELEASE -->
   <version>1.0.0</version>
 
-  <!-- REPLACE WITH YOUR GITHUB_USERNAME -->
-  <groupId>GITHUB_USERNAME</groupId>
+  <!-- REPLACE WITH YOUR ndavarpanah -->
+  <groupId>ndavarpanah</groupId>
 
   <distributionManagement>
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
 
-      <!-- REPLACE WITH YOUR GITHUB_USERNAME and GITHUB_REPONAME -->
-      <url>https://maven.pkg.github.com/GITHUB_USERNAME/GITHUB_REPONAME</url>
+      <!-- REPLACE WITH YOUR ndavarpanah and CD-Delivery-Java -->
+      <url>https://maven.pkg.github.com/ndavarpanah/CD-Delivery-Java</url>
 
     </repository>
   </distributionManagement>
